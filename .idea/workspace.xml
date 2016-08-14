@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9c534c4-f9b8-43c4-9137-b132d8bec093" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/javascriptTutorial_04.js" afterPath="$PROJECT_DIR$/.idea/javascriptTutorial_04.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/javascriptTutorial_05.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Javascript.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +39,7 @@
       <file leaf-file-name="javascriptTutorial_02.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/javascriptTutorial_02.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
+            <state relative-caret-position="130">
               <caret line="77" column="29" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="29" />
               <folding>
                 <element signature="e#0#57#0" expanded="false" />
@@ -57,11 +58,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="javascriptTutorial_04.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="javascriptTutorial_04.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/javascriptTutorial_04.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2510">
-              <caret line="72" column="26" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
+            <state relative-caret-position="225">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="javascriptTutorial_05.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/javascriptTutorial_05.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="371" column="4" selection-start-line="371" selection-start-column="4" selection-end-line="371" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -86,6 +97,7 @@
         <option value="$PROJECT_DIR$/.idea/javascriptTutorial_02.js" />
         <option value="$PROJECT_DIR$/.idea/javascriptTutorial_03.js" />
         <option value="$PROJECT_DIR$/.idea/javascriptTutorial_04.js" />
+        <option value="$PROJECT_DIR$/.idea/javascriptTutorial_05.js" />
       </list>
     </option>
   </component>
@@ -154,7 +166,7 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.javascriptTutorial_04.js">
+  <component name="RunManager" selected="Node.js.javascriptTutorial_05.js">
     <configuration default="false" name="javascriptTutorial_01.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="javascriptTutorial_01.js" working-dir="$PROJECT_DIR$/.idea">
       <method />
     </configuration>
@@ -165,6 +177,9 @@
       <method />
     </configuration>
     <configuration default="false" name="javascriptTutorial_04.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="javascriptTutorial_04.js" working-dir="$PROJECT_DIR$/.idea">
+      <method />
+    </configuration>
+    <configuration default="false" name="javascriptTutorial_05.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="javascriptTutorial_05.js" working-dir="$PROJECT_DIR$/.idea">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -220,18 +235,20 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Node.js.javascriptTutorial_01.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.javascriptTutorial_02.js" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.javascriptTutorial_03.js" />
       <item index="3" class="java.lang.String" itemvalue="Node.js.javascriptTutorial_04.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.javascriptTutorial_05.js" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.javascriptTutorial_04.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.javascriptTutorial_03.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.javascriptTutorial_02.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.javascriptTutorial_01.js" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.javascriptTutorial_05.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.javascriptTutorial_04.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.javascriptTutorial_03.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.javascriptTutorial_02.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.javascriptTutorial_01.js" />
       </list>
     </recent_temporary>
   </component>
@@ -241,6 +258,9 @@
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",SHOW_CLASSES,ALPHA_COMPARATOR,HIDE_INHERITED" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e9c534c4-f9b8-43c4-9137-b132d8bec093" name="Default" comment="" />
@@ -249,12 +269,12 @@
       <option name="presentableId" value="Default" />
       <updated>1470854809760</updated>
       <workItem from="1470854812073" duration="9897000" />
-      <workItem from="1470941796839" duration="8627000" />
+      <workItem from="1470941796839" duration="23098000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18524000" />
+    <option name="totallyTimeSpent" value="32995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -413,21 +433,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/javascriptTutorial_04.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/javascriptTutorial_02.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
+        <state relative-caret-position="130">
           <caret line="77" column="29" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="29" />
           <folding>
             <element signature="e#0#57#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="128" column="0" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -439,10 +459,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/javascriptTutorial_04.js">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript5.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2510">
-          <caret line="72" column="26" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
+        <state relative-caret-position="168">
+          <caret line="165" column="0" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="114" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/javascriptTutorial_05.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="371" column="4" selection-start-line="371" selection-start-column="4" selection-end-line="371" selection-end-column="4" />
           <folding />
         </state>
       </provider>
