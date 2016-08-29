@@ -55,7 +55,7 @@ function findSolution(target) {
     return find(1, "1");
 }
 
-console.log(findSolution(6));
+console.log(findSolution(48));
 
 // Minimum
 

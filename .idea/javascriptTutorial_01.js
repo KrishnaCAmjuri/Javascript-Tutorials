@@ -3,14 +3,15 @@
  */
 var a = 0;
 var b = 1;
-var c = a/b;
+var c = b/a;
 var d = "Baby";
+var g = typeof d == "string";
 var e = 'Baby' < 'baby'; // uppercase letters are always less than lower case letters
 var f = e ? "upper" : "lower";
 
 // type coercion in java is unpredictable
 console.log('Hello world, here\'s the value of c: ' + c);
-console.log('Type of e: ' + typeof e);
+console.log('g: ' + g);
 console.log('String comparision is based on unicode standard: ' + e);
 console.log('f value: ' + f);
 console.log('undefined type check: ' + (null == 0));

@@ -52,7 +52,6 @@ ManChills.prototype.babe = false;
 var myChill = new ManChills('mybBE');
 myChill.tell('lol bittt' + myChill.babe);
 
-
 function Friends(type) {
     this.type = type;
 }

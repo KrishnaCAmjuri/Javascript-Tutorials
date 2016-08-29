@@ -48,3 +48,21 @@ try {
 } catch (error) {
     console.log(error);
 }
+
+(function(babe) {
+    function square(x) { return x * x; }
+    var hundred = 100;
+
+    babe.speak = function() {
+        console.log(square(hundred));
+    };
+})(this.baby = {});
+
+function reqq(name) {
+    var code = new Function("babe", readFile(name));
+    var exports = {};
+    code(exports);
+    return exports;
+}
+
+reqq('baby').speak();
